@@ -31,7 +31,7 @@ Create a new repository from the [**Chirpy Starter**][use-starter] and name it `
 And then execute:
 
 ```console
-$ bash tools/init.sh
+$ bash tools/init
 ```
 
 > If you don't want to deploy your site on GitHub Pages, append option `--no-gh` at the end of the above command.
@@ -68,9 +68,9 @@ Update the variables of `_config.yml`{: .filepath} as needed. Some of them are t
 
 ### Customizing Stylesheet
 
-If you need to customize the stylesheet, copy the theme's `assets/css/style.scss`{: .filepath} to the same path on your Jekyll site, and then add the custom style at the end of the style file.
+If you need to customize the stylesheet, copy the theme's `assets/css/style.scss`{: .filepath} to the same path on your Jekyll site, and then add the custom style at the end of it.
 
-Starting from [`v4.1.0`][chirpy-4.1.0], if you want to overwrite the SASS variables defined in `_sass/addon/variables.scss`{: .filepath}, create a new file `_sass/variables-hook.scss`{: .filepath} and assign new values to the target variable in it.
+Starting with version `4.1.0`, if you want to overwrite the SASS variables defined in `_sass/addon/variables.scss`{: .filepath}, copy the main sass file `_sass/jekyll-theme-chirpy.scss`{: .filepath} into the `_sass`{: .filepath} directory in your site's source, then create a new file `_sass/variables-hook.scss`{: .filepath} and assign new value.
 
 ### Customing Static Assets
 
