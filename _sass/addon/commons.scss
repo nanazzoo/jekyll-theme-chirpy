@@ -702,7 +702,7 @@ $sidebar-display: "sidebar-display";
   overflow-y: auto;
   width: $sidebar-width;
   z-index: 99;
-  background: url('/assets/img/background.jpg');
+  background: url("/assets/img/background.jpg");
 
   /* Hide scrollbar for Chrome, Safari and Opera */
   &::-webkit-scrollbar {
