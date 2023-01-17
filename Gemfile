@@ -29,7 +29,6 @@ if RUBY_PLATFORM =~ /linux-musl/
   gem "jekyll-sass-converter", "~> 2.0"
 end
 
-group :jekyll_plugins do
-	gem "jemoji"
 
+gem "github-pages", group: :jekyll_plugins
 
