@@ -199,5 +199,5 @@ jekyll-archives:
     category: /categories/:name/
 
 
-gems: 
+plugins: 
   - jemoji
