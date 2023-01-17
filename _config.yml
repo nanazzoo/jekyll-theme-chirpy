@@ -201,5 +201,4 @@ jekyll-archives:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-feed
   - jemoji
