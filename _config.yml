@@ -199,6 +199,5 @@ jekyll-archives:
     category: /categories/:name/
 
 
-# Plugins (previously gems:)
-plugins:
+plugins: 
   - jemoji
