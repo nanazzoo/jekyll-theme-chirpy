@@ -13,7 +13,7 @@ tags: [Java, Array]
 
 
 
-![javaarray](assets/img/java/javaarray.jpg)
+<img src="/assets/img/java/javaarray.jpg" width="60%" alt="javaarray">
 
 
 
