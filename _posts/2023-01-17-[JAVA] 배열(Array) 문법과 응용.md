@@ -13,7 +13,7 @@ tags: [Java, Array]
 
 
 
-![javaarray](C:\Users\bboya\OneDrive\바탕 화면\javaarray.jpg)
+![javaarray](assets/img/java/javaarray.jpg)
 
 
 
