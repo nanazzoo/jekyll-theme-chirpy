@@ -92,7 +92,6 @@ M             1000</pre>
 
 > ### 답안 보기
   
-  
 ```java
 class Solution {
     public int romanToInt(String s) {
