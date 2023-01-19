@@ -92,8 +92,6 @@ M             1000</pre>
 
 > ### 답안 보기
   
-<br/>
-  
 ```java
 
 class Solution {
@@ -109,12 +107,12 @@ class Solution {
 				case 'I': 
 					answer += 1;
                     
-                    // 임시 변수에 저장
+          // 임시 변수에 저장
 					temp='I';
 					break;
 					
 				case 'V':
-                    // 임시 변수가 I일 때와 아닐 때 값을 다르게 추가
+          // 임시 변수가 I일 때와 아닐 때 값을 다르게 추가
 					if(temp == 'I') answer += 3;
 					else answer += 5;
 					temp = 'V';
