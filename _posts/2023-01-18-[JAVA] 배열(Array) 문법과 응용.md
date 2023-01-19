@@ -64,8 +64,7 @@ int[] nums2 = {1, 2, 3};
 
 
 > Arrays 클래스에 있는 메서드를 사용하기 위해서는 반드시 java.util.Arrays 패키지를 inport해주어야 한다.
->
-> {: .prompt-info }
+{: .prompt-info }
 
 
 
@@ -103,8 +102,7 @@ class Test{
 
 
 >  char 형 같은 문자열 배열은 println 구문으로 바로 출력이 가능하다.
->
-> {: .prompt-tip}
+{: .prompt-tip}
 
 <br/>
 
