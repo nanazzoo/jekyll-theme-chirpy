@@ -1,5 +1,5 @@
 ---
-title: [Java] 배열(Array)의 문법과 응용
+title: 배열(Array)의 문법과 응용
 date: 2023-01-18 20:01:00 +09:00
 categories: [Backend, Java]
 tags: [Java, Array]
