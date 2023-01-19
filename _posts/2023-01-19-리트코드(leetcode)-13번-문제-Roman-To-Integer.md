@@ -1,5 +1,5 @@
 ---
-title: 2023-01-19-리트코드(leetcode)-13번-문제-Roman-To-Integer
+title: 리트코드(leetcode)-13번-문제-Roman-To-Integer
 date: 2023-01-19 11:33:34 +09:00
 categories: [CodingTest, LeetCode]
 tags: [CodingTest, LeetCode]

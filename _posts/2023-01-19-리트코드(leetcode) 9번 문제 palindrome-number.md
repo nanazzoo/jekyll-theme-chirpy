@@ -1,5 +1,5 @@
 ---
-title: 2023-01-19-리트코드(leetcode) 9번 문제 palindrome-number
+title: 리트코드(leetcode) 9번 문제 palindrome-number
 date: 2023-01-19 11:18:30 +09:00
 categories: [CodingTest, LeetCode]
 tags: [CodingTest, LeetCode, palindrome]
