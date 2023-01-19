@@ -91,8 +91,9 @@ M             1000</pre>
 <br/><br/>
 
 > ### 답안 보기
-  
+
 ```java
+
 class Solution {
     public int romanToInt(String s) {
         
@@ -150,9 +151,10 @@ class Solution {
         return answer;
     }
 }
+
 ```
 
-                               
+
 <br/><br/>
 
 확실히 for문만 쓰는 것보다 switch문으로 break를 걸어주었더니 속도가 빨라지는 것을 느낄 수 있었다.
