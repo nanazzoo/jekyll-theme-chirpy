@@ -91,7 +91,8 @@ M             1000</pre>
 <br/><br/>
 
 > ### 답안 보기
-
+  
+  
 ```java
 class Solution {
     public int romanToInt(String s) {
@@ -152,6 +153,7 @@ class Solution {
 }
 ```
 
+                               
 <br/><br/>
 
 
@@ -160,7 +162,7 @@ class Solution {
 
 
 
-<img src="/assets/img/codingtest/roman-to-integer.jpg" width="60%"/>
+<img src="/assets/img/codingtest/roman-to-integer.jpg"/>
 
 <br/><br/>
 
