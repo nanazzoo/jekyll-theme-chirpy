@@ -1,5 +1,5 @@
 ---
-title: 리트코드(leetcode)-13번-문제-Roman-To-Integer
+title: 리트코드(leetcode) 13번 문제 Roman To Integer
 date: 2023-01-19 11:33:34 +09:00
 categories: [CodingTest, LeetCode]
 tags: [CodingTest, LeetCode]
@@ -153,8 +153,6 @@ class Solution {
 ```
 
 <br/><br/>
-
-
 
 확실히 for문만 쓰는 것보다 switch문으로 break를 걸어주었더니 속도가 빨라지는 것을 느낄 수 있었다.
 
