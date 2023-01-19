@@ -91,8 +91,7 @@ M             1000</pre>
 <br/><br/>
 
 
-<pre>
-  <code>
+```java
 class Solution {
     public int romanToInt(String s) {
         
@@ -150,8 +149,7 @@ class Solution {
         return answer;
     }
 }
-  </code>
-</pre>
+```
                                
 <br/><br/>
 
