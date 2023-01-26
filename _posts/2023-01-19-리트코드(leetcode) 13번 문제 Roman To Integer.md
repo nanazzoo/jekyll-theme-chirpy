@@ -17,7 +17,7 @@ tags: [CodingTest, LeetCode]
 
 > ### 문제 내용
 
-<h3>Easy</h3><hr><div><p>Roman numerals are represented by seven different symbols:&nbsp;<code>I</code>, <code>V</code>, <code>X</code>, <code>L</code>, <code>C</code>, <code>D</code> and <code>M</code>.</p>
+<h2><a href="https://leetcode.com/problems/roman-to-integer/">13. Roman to Integer</a></h2><h3>Easy</h3><hr><div><p>Roman numerals are represented by seven different symbols:&nbsp;<code>I</code>, <code>V</code>, <code>X</code>, <code>L</code>, <code>C</code>, <code>D</code> and <code>M</code>.</p>
 
 <pre><strong>Symbol</strong>       <strong>Value</strong>
 I             1
@@ -70,8 +70,7 @@ M             1000</pre>
 	<li><code>s</code> contains only&nbsp;the characters <code>('I', 'V', 'X', 'L', 'C', 'D', 'M')</code>.</li>
 	<li>It is <strong>guaranteed</strong>&nbsp;that <code>s</code> is a valid roman numeral in the range <code>[1, 3999]</code>.</li>
 </ul>
----
-
+</div>
 
 
 <br/><br/>
@@ -92,7 +91,7 @@ M             1000</pre>
 
 
 > ### 답안 보기
-
+  
 ```java
 
 class Solution {
@@ -108,12 +107,12 @@ class Solution {
 				case 'I': 
 					answer += 1;
                     
-                    // 임시 변수에 저장
+          // 임시 변수에 저장
 					temp='I';
 					break;
 					
 				case 'V':
-                    // 임시 변수가 I일 때와 아닐 때 값을 다르게 추가
+          // 임시 변수가 I일 때와 아닐 때 값을 다르게 추가
 					if(temp == 'I') answer += 3;
 					else answer += 5;
 					temp = 'V';
@@ -152,6 +151,7 @@ class Solution {
         return answer;
     }
 }
+                               
 
 ```
 
