@@ -442,15 +442,15 @@ void selectionSort(int[] arr) {
 
 ex)
 
-[3, 2, 1, 5, 7, 5] 배열이 있다고 가정한다.
+[3, 2, 1, <span style="color:red">5</span>, 7, <span style="color:blue">5</span>] 배열이 있다고 가정한다.
 
 
 
 이를 오름차순으로 정렬한다고 할 때
 
-[1, 2, 3, 5, 5, 7]이 된다면 **안정 정렬**
+[1, 2, 3, <span style="color:red">5</span>, <span style="color:blue">5</span>, 7]이 된다면 **안정 정렬**
 
-[1, 2, 3, 5, 5, 7]이 될 수 있다면 **불안정 정렬**이다.
+[1, 2, 3, <span style="color:blue">5</span>, <span style="color:red">5</span>, 7]이 될 수 있다면 **불안정 정렬**이다.
 
 
 
