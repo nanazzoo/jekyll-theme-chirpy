@@ -115,7 +115,7 @@ public class main {
 
 
 
-![img](https://lh6.googleusercontent.com/aJDuV_JJ6tFCKok-mMhdsbp_xRPLV3vJMyNWkcjbMYPkyc-X_RVL-vmajb8g_gdHpY7OLRgLyfDqDKpBYXW_JfPh7IuhycbMZB_cEXNip-TmpS4Il3k46aYKTOu8lbSWRShzJt5xgGP2aqgRzFFhnV4)
+<img src="/assets/img/cs/Recursion.png">
 
 <br>
 
@@ -188,7 +188,9 @@ public static int factorial(int n) {
 
 <br>
 
-![img](https://lh5.googleusercontent.com/4wGxbgeirunCfHC9qaR9n1gc3a-UpM4XsGQvyYE67yYsly2lLvPVQQrVCyLE-n87orZG9_WczP0jaBGTKZCl5qS9yHxAcOvYh6QVwtNw5JAdTUmp_91PNFUFhlWI7nXrfGMMGaHy1z-IeVx6R9Hgr0g)
+
+
+<img src="/assets/img/cs/factorial.png">
 
 
 
@@ -244,7 +246,9 @@ public static int factorial(int n) {
 
 
 
-![img](https://lh5.googleusercontent.com/5MMymHvb5H5_8BKda8vYPpIaPJ3xMDKRnewNPPOfQXRiMAGoTXtQROqxPxdETvwCOH5OlUDAgF-XEYutrsaeBHQayt0Cjv2ZKpuFRghnt6JwZyKPMwGVg_mjdonDjnb4Z48sDH0Ia_vMeVj-UA_7Gq4)
+<img src="/assets/img/cs/Big-O-Complexity-Chart.png">
+
+
 
 ---
 
@@ -273,7 +277,7 @@ public static int factorial(int n) {
 
 
 
-![img](https://lh4.googleusercontent.com/RFvfahZXDRMouxc53xrOUpTlrRZ71Fbt-97pmVkiOpachycI4XWqZhcDKwHAxQvZmA0HMx3PqWYJtB6mgJkpGvxT8f_eaKuv2eTbDfvMeJNEbIUr19ZdPTp6Mo6gR8yT8M6c-ruSoTmdoWtrfELc0Ro)
+<img src="/assets/img/cs/bubble-sort-001.gif">
 
 
 
@@ -345,7 +349,7 @@ void bubbleSort(int[] arr) {
 
 
 
-![img](https://lh5.googleusercontent.com/a5rMjSEzrHYyNyUNvDJb3hkFCFv33V7Xx-6mYTAxtCr-CYZwicf3qNT9zo1NMdOzN0GypOIiyK5CHDf9eGXczmKxGO8YYBFpnfJE2CMEdBTXWBdxYPfUdD6KbpzCEGjuQFPNbHpMgwxAv6Pru4Ff6LM)
+<img src="/assets/img/cs/selection-sort-001.gif">
 
 
 
@@ -466,7 +470,7 @@ ex)
 
 
 
-![img](https://lh6.googleusercontent.com/f2a-feKyDvthiL9jVf8Rl9bv7cZ-V7Xbva6JeyziWvs93ip1chjYhcOiyEnTKQjlbdcKLEJZbckt5MOfAQR_8MLai4nTeLS7OZ60JKXekGs3fGuLfp3SmjCL12wclr5Eq-fnPo2XEpFG0elEB2sd2SQ)
+<img src="/assets/img/cs/insertion-sort-001.gif">
 
 
 
@@ -565,7 +569,7 @@ void insertionSort(int[] arr)
 
 
 
-![img](https://lh6.googleusercontent.com/kePYfVAcL9wOnso_VBPWtHX3eb16dRIQumIJs3_vbadnWvu3YMAtFNDwqJPegaDICmOAu439kP-sTlnVhuBK-jNcRY5B_TTaXmEZ9zk20j409vPT4pakpBPqeAyhxcESu6EoGCAzLWehZjdqpF8E7oY)
+<img src="/assets/img/cs/quick-sort-001.gif">
 
 
 
