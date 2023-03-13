@@ -7,7 +7,7 @@ tags: [proejct, troubleshooting, oracleCloud]
 
 
 
-## Oracle Cloud 호스팅 중 Chart.js 문제 발생
+
 
 Farmfarm 프로젝트에서 SQL문의 문제를 개선하였던 경험을 포스트로 남기려고 합니다.
 
