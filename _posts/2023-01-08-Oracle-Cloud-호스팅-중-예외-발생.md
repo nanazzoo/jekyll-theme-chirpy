@@ -25,7 +25,8 @@ Oracle Cloud에 프로젝트를 배포 후, 관리자 페이지의 Chart.js를 �
 
 > 문제의 대시보드
 
-![1](C:\Users\bboya\OneDrive\바탕 화면\1.png)
+<img width="700" alt="1" src="https://user-images.githubusercontent.com/101784680/224609252-8314a026-3f20-44d6-9ddf-f942e724e70f.png">
+
 
 
 
@@ -164,9 +165,10 @@ where문 작성 시 두 개의 날짜를 비교할 때 CHAR형 날짜와 DATE형
 
 
 
+<img width="361" alt="스크린샷 2023-03-13 125853" src="https://user-images.githubusercontent.com/101784680/224609310-19bd3bf0-17cd-4060-8813-ca2b64b54896.png">
 
 
-![스크린샷 2023-03-13 125853](C:\Users\bboya\OneDrive\사진\스크린샷\스크린샷 2023-03-13 125853.png)
+
 
 
 
