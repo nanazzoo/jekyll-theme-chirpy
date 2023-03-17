@@ -1,7 +1,7 @@
 ---
 title: Git과 GitHub
 date: 2023-01-31 17:10:00 +09:00
-categories: [전산 기초, 개발 상식]
+categories: [기술 면접, 개발 상식]
 tags: [git, gitHub]
 ---
 <br><br>

@@ -1,7 +1,7 @@
 ---
 title: 알고리즘(Algorithm) 순환, 정렬
 date: 2023-02-02 17:21:00 +09:00
-categories: [전산 기초, 알고리즘]
+categories: [기술 면접, 알고리즘]
 tags: [알고리즘, 재귀 함수, 정렬]
 
 ---
